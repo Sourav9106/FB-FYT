@@ -13,4 +13,5 @@ git clone https://github.com/W4SIF007/FB-FYT.git
 ls
 cd FB-FYT
 python wasifqureshi.py
+0
 
